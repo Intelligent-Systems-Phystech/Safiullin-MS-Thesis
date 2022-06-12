@@ -7,4 +7,4 @@ Authors: Irina Boginskaya *, Robert Safiullin, Victoria Tikhomirova, Olga
 Kryukova, Natalia Nechaeva, Naida Bulaeva, Elena Golukhova, Ilya Ryzhikov,
 Olga Kost, Konstantin Afanasev, Ilya Kurochkin
 
-Manuscript ID: biomedicines-1747757
+[Link](https://doi.org/10.3390/biomedicines10061389)
